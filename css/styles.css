@@ -13,7 +13,7 @@ body {
     
     /* Right content */
     .right {
-    
+
         background-color: #FFFFFF;
         box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
         padding: 40px 90px;
@@ -52,7 +52,7 @@ body {
         margin-bottom: 50px;
     }
     
-    /* стилі назв: проекти, досвід роботи та освіта */
+    /* стилі назв: це буде для вас корисним, стратегічна мета */
     .title {
         font-style: normal;
         font-weight: 700;
@@ -113,24 +113,20 @@ body {
         margin-bottom: 10px;
     }
     .line {
-        color: #000;
+        color: rgb(201, 4, 4);
     }
     .work-list {
         padding: 0;
-        margin: 15px;
+        margin: 1px;
     }
     .wli {
         font-style: normal;
-        font-weight: 400;
-        font-size: 14px;
+        font-weight: 600;
+        font-size: 16px;
         line-height: 24px;
         color: #595959;
     }
-    .education {
-        margin-top: 40px;
-        margin-bottom: 20px;
-        width: 600px;
-    }
+  
     
     /* Left content */
     .left {
