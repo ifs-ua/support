@@ -31,17 +31,14 @@ body {
         font-size: 14px;
         line-height: 17px;
         color: #000000;
-        width: 550px;
-    }
-  
-    .home-logo {
-        margin-left: 60px;
-        padding-top: 10px;
     }
     .go-home {
-        margin-left: 20px;
-        color: #FB6D3A;
+        padding-top: 20px;
     }
+    .home-logo {
+        padding-top: 10px;
+    }
+   
       
     .sait-name {
         font-style: normal;
