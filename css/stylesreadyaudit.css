@@ -45,7 +45,7 @@ body {
         font-size: 45px;
         line-height: 55px;
         color: #12385E;
-        width: 600px;
+        width: 650px;
     }
     .about-name {
         font-style: normal;
@@ -91,7 +91,6 @@ body {
     .benefits {
         padding: 0;
         text-align: justify;
-    
     }
     .ben {
         padding: 0px;
