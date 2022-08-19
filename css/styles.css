@@ -48,7 +48,7 @@ body {
         font-weight: 700;
         font-size: 45px;
         line-height: 55px;
-        color: #000000;
+        color: #12385E;
         width: 650px;
     }
     .about-name {
@@ -162,7 +162,7 @@ body {
     
     /* Left content */
     .left {
-        background-color: #23406d;
+        background-color: #12385E;
         padding-top: 40px;
         padding-bottom: 40px;
         width: 370px;
