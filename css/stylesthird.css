@@ -1,13 +1,15 @@
 body {
     font-family: 'Montserrat', sans-serif;
+    width: 1200px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
     }
     
     /* main-conteiner*/
     .main-container {
         display: flex;
         flex-direction: row-reverse;
-        width: 1200px;
-        margin: auto;
     }
     
     /* Right content */
@@ -110,15 +112,7 @@ body {
         line-height: 24px;
         color: #595959;
     }
-   
 
-
-   
-    .team-logo {
-        margin-left: 290px;
-    }
-   
-  
     
     /* Left content */
     .left {
@@ -188,4 +182,53 @@ body {
     }
 
    
-   
+     /*Footer*/
+     .footer {
+        display: flex;
+        flex-direction: row;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 15px;
+        color: #A8A8A8;
+        background-color: #12385E;
+        padding-top: 20px;
+        padding-bottom: 20px;
+       
+    }
+    .zero {
+        width: 150px;
+        text-align :left;
+        margin-left: 40px;
+        font-style: italic;
+        font-weight: 200;
+        font-size: 12px;
+        line-height: 15px;
+        color: #FB6D3A;
+        padding-top: 40px;
+        padding-bottom: 0px;
+    }
+    .zakarog {
+        color: #fff;
+    }
+    .left1 {
+        text-align :right;
+        margin-right: 20px;
+        width: 310px;
+        margin-left: 230px;
+    }
+    .center {
+        padding-top: 10px;
+        width: 70px;
+    }
+    
+    .right1 {
+        text-align :left;
+        margin-left: 20px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 15px;
+        color: #A8A8A8;
+        width: 310px;
+    }
