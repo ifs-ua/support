@@ -68,13 +68,14 @@ body {
         margin-top: 70px;
     }
 
-  /* стилі назв: стратегічна мета, це буде корисним*/
+  /*стратегічна мета*/
   .title {
+    font-family: 'Cormorant Garamond', serif;
     font-style: normal;
-    font-weight: 700;
-    font-size: 22px;
+    font-weight: 900;
+    font-size: 28px;
     line-height: 27px;
-    color: #000000;
+    color: #0044FF;
     margin-bottom: 10px;
 }
     .team {
@@ -102,6 +103,10 @@ body {
     }
     /*descriptrion of the aim*/
     .aim {
+        font-family: 'Cormorant Garamond', serif;
+        font-weight: 900;
+        font-size: 22px;
+        color: #0044FF;
         padding: 0;
         margin: 1px;
     }
@@ -126,6 +131,15 @@ body {
 
 
     /*It will be useful for you*/
+    .title1 {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 27px;
+        color: black;
+        margin-bottom: 10px;
+
+    }
 
     .for-you-list {
         padding: 0px;
