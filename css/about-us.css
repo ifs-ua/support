@@ -60,6 +60,35 @@ body {
         width: 550px;
         text-align: justify;
     }
+    /*Pfoto of our team members*/
+    .nau {
+        display: flex;
+        flex-direction: row-reverse;
+        margin-top: 80px;
+    }
+    .nau-1 {
+        width: 200px;
+    }
+    .nau-note {
+        margin-top: 180px;
+    }
+    .marsh {
+        display: flex;
+        flex-direction: row;
+        margin-top: 80px;
+    }
+    .marsh-note {
+        margin-top: 180px;
+    }
+    .volo {
+        display: flex;
+        flex-direction: row-reverse;
+        margin-top: 80px;
+    }
+    .volo-note {
+        margin-top: 180px;
+    }
+
 
     
     /* Left content */
