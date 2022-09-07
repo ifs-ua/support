@@ -10,7 +10,6 @@ body {
     .main-container {
         display: flex;
         flex-direction: row-reverse;
-       
     }
     
     /* Right content */
@@ -36,7 +35,7 @@ body {
         padding-top: 5px;
     }
     .go-home {
-        padding-top: 10px;
+        padding-top: 20px;
     }
     .home-logo {
         padding-top: 0px;
@@ -139,8 +138,9 @@ body {
         line-height: 24px;
     }
     .left-title-list {
-        padding: 0px;
+        padding-left: 0px;
         margin-left: 17px;
+        margin-right: 40px;
     }
     .we-can {
         margin-left: 40px;
@@ -148,7 +148,7 @@ body {
         font-weight: 400;
         font-size: 14px;
         line-height: 24px;
-        width: 250px;
+  
         margin-bottom: 10px;
     }
     .ltl-item {
@@ -156,6 +156,9 @@ body {
     }
     .ltl {
         color: #fff;
+    }
+    .ltl-m {
+        color: #FB6D3A;
     }
 
     /*Footer*/

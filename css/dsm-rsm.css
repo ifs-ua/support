@@ -37,7 +37,7 @@ body {
         padding-top: 20px;
     }
     .home-logo {
-        padding-top: 10px;
+        padding-top: 0px;
     }
    
       
@@ -150,7 +150,7 @@ body {
         font-weight: 400;
         font-size: 14px;
         line-height: 24px;
-        color: #FB6D3A;
+        color: #141413;
         opacity: 0.5;
     }
     .w-a-know {
@@ -160,18 +160,21 @@ body {
         font-weight: 700;
         font-size: 14px;
         line-height: 24px;
-        width: 250px;
     }
     .left-title-list {
-        padding: 0px;
+        padding-left: 0px;
         margin-left: 17px;
+        padding-right: 40px;
     }
     
     .ltl-item {
-        color: #FB6D3A;
+        color: #141413;
     }
     .ltl {
         color: #FB6D3A;
+    }
+    .ltl-m {
+        color: #141413;
     }
 
      /*Footer*/

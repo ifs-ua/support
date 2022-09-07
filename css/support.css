@@ -37,7 +37,7 @@ body {
         padding-top: 20px;
     }
     .home-logo {
-        padding-top: 10px;
+        padding-top: 0px;
     }
    
       
@@ -159,17 +159,24 @@ body {
         font-weight: 400;
         font-size: 14px;
         line-height: 24px;
-        width: 250px;
+        
     }
     .left-title-list {
-        padding: 0px;
+        padding-left: 0px;
         margin-left: 17px;
+        padding-right: 40px;
     }
     .ltl-item {
-        color: #fff;
+        color: rgb(44, 43, 43);
+        font-weight: 100;
+        
     }
     .ltl {
         color: #fff;
+    }
+    .ltl-m {
+        font-weight: bold;
+        color: rgb(44, 43, 43);
     }
 
      /*Footer*/

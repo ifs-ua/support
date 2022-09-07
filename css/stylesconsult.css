@@ -37,7 +37,7 @@ body {
         padding-top: 20px;
     }
     .home-logo {
-        padding-top: 10px;
+        padding-top: 0px;
     }
    
       
@@ -180,6 +180,9 @@ body {
     }
     .ltl {
         color: #fff;
+    }
+    .ltl-m {
+        color: #FB6D3A; 
     }
 
      /*Footer*/
