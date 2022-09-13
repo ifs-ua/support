@@ -44,7 +44,7 @@ body {
       
     .page-name {
         font-style: normal;
-        font-weight: 700;
+        font-weight: 500;
         font-size: 45px;
         line-height: 55px;
         color: #12385E;
@@ -59,23 +59,23 @@ body {
         width: 550px;
         text-align: justify;
     }
-    /*Articles*/
-    .art {
+    /*Pfoto of our team members*/
+    .nau {
         display: flex;
         flex-direction: row-reverse;
-        margin-top: 10px;
-        width: 650px;
-    }
-    .img-art {
-        width: 100px;
-        padding-top: 0px;
-    }
-    .author-art {
         margin-top: 0px;
+    }
+    .nau-1 {
+        width: 220px;
+    }
+    .author {
+        margin-top: 180px;
+        color: #FB6D3A;
+        font-weight: 800;
     }
     .marsh {
         display: flex;
-        flex-direction: row-reverse;
+        flex-direction: row;
         margin-top: 80px;
     }
     .marsh-note {
@@ -89,7 +89,18 @@ body {
     .volo-note {
         margin-top: 180px;
     }
-  
+    .red {
+        color: #b92c2c;
+    }
+    .kursiv {
+        font-style: italic;
+        font-weight: 600;
+    }
+    .artic {
+        text-align: justify;
+    }
+
+
     
     /* Left content */
     .left {
@@ -158,10 +169,7 @@ body {
     .ltl {
         color: #fff;
     }
-    .ltl-m {
-        color: #FB6D3A;
-    }
-
+  
     /*Footer*/
     .footer {
         display: flex;
