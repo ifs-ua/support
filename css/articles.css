@@ -44,11 +44,12 @@ body {
       
     .page-name {
         font-style: normal;
-        font-weight: 500;
+        font-weight: 700;
         font-size: 45px;
         line-height: 55px;
         color: #12385E;
         width: 650px; 
+    }
     }
     .about-name {
         font-style: normal;

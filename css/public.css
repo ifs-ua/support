@@ -67,28 +67,13 @@ body {
         width: 650px;
     }
     .img-art {
-        width: 100px;
+    
         padding-top: 0px;
     }
     .author-art {
         margin-top: 0px;
     }
-    .marsh {
-        display: flex;
-        flex-direction: row-reverse;
-        margin-top: 80px;
-    }
-    .marsh-note {
-        margin-top: 180px;
-    }
-    .volo {
-        display: flex;
-        flex-direction: row-reverse;
-        margin-top: 80px;
-    }
-    .volo-note {
-        margin-top: 180px;
-    }
+    
   
     
     /* Left content */
