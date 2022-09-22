@@ -50,7 +50,7 @@ body {
         color: #12385E;
         width: 650px; 
     }
-    }
+    
     .about-name {
         font-style: normal;
         font-weight: 400;
@@ -60,7 +60,7 @@ body {
         width: 550px;
         text-align: justify;
     }
-    /*Pfoto of our team members*/
+    /*Photo of our team members*/
     .nau {
         display: flex;
         flex-direction: row-reverse;
