@@ -118,6 +118,7 @@ font-family: 'Montserrat', sans-serif;
 .work-list {
     padding: 0;
     margin: 15px;
+    text-align: justify;
 }
 .wli {
     font-style: normal;
